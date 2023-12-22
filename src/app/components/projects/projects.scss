@@ -1,0 +1,13 @@
+.my-projects a {
+    text-decoration: none;
+}
+
+.my-projects{
+    display: flex;
+    color: #B3B3B3;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+    gap: 24px;
+    grid-area: experience;
+}
