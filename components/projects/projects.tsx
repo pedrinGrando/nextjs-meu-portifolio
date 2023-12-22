@@ -4,7 +4,6 @@ import { DownloadIcon } from "../icons/download";
 
 import "./projects.scss"
 
-
 export function Projects(){
 
     const projects = [

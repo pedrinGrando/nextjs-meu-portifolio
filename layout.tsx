@@ -6,6 +6,7 @@ const inter = Poppins({
   weight: ['300', '400', '500', '600']
 })
 
+
 export const metadata = {
   title: 'Pedro Aluisio',
   description: 'Pedro is a Full Stack Developer',

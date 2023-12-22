@@ -2,7 +2,6 @@ import "./header.scss";
 
 import Image from 'next/image'
 
-
 export function Header(){
     return(
         <div className="header">

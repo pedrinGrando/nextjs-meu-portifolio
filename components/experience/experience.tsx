@@ -16,7 +16,6 @@ export function Experience(){
             <Skill image="/react.png" measure={1} years="1 years"/>
             <Skill image="/ts.png" measure={1} years="1 years"/>
             <Skill image="/js.png" measure={1} years="1 years"/>
-           
           </div>
         </div>
     )

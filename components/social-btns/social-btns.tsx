@@ -5,7 +5,6 @@ import { TwitterIcon } from "../icons/twitter-icon";
 
 import "./social-btns.scss"
 
-
 export function SocialBtns(){
     return(
         <div className="social">
