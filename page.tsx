@@ -17,14 +17,13 @@ export default function Home() {
         <div className="buttons">
           <SocialBtns/>
           <a className="btn-primary" href="pedrogrando6@gmail.com">
-            contact me
+            Contact me
             <EmailIcon/>
           </a>
         </div>
 
         <div className='projects'>
              <Projects />
-             
         </div>
     </main>
   )
