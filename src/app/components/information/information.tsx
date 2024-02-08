@@ -13,7 +13,7 @@ export function Info(){
         <SectionTitle text="Education"/>
         <div className="educational-info">
           <span>🎓</span>
-          <span>Analysis and systems development at SENAC - SC</span>
+          <span>Analysis and Systems Development at SENAC - SC</span>
         </div>
       </div>
     )
